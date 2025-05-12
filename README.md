@@ -1,3 +1,3 @@
 # Diffusion Models for personalization
-# test
-https://docs.google.com/presentation/d/11d9gpdIEJvqH9UAJwQMl_rF7yEi_79Y8wwOmewW8ePw/edit#slide=id.p
+
+https://docs.google.com/presentation/d/1R2Ff2_RouMFElqPyJWecEh3Kq6-HIkN8BiAWggv7RTI/edit#slide=id.p3
